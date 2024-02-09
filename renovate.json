@@ -1,6 +1,6 @@
 {
   "extends": [
-    "@nuxtjs",
+    "config:base"
   ],
   "enabled": true,
   "prHourlyLimit": 10,
